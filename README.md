@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kate! <br/><a href="https://github.com/kates-code">Developer</a>
+<h1>Hey, I'm Kate! <br/>
 
 <h2>👩‍💻 Software Development Projects:</h2>
 
